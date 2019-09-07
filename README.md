@@ -10,3 +10,6 @@
 3. Teamweek (https://teamweek.com).
 
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
+
+
+https://miro.com/app/board/o9J_kwtvxkE=/
